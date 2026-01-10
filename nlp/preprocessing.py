@@ -27,11 +27,9 @@ class TextPreprocessor:
         try:
             self.nlp = spacy.load("fr_core_news_sm")
         except OSError:
-            print("⚠️ Modèle spaCy 'fr_core_news_sm' non trouvé. Installation...")
-            import subprocess
-            subprocess.run(["python", "-m", "spacy", "download", "fr_core_news_sm"], check=False)
-            self.nlp = spacy.load("fr_core_news_sm")
-        
+            # Fallback for environments without the model package.
+            print("spaCy model 'fr_core_news_sm' not found; using blank 'fr' model.")
+            self.nlp = spacy.blank("fr")
         # Stopwords français
         try:
             self.stop_words = set(stopwords.words('french'))
