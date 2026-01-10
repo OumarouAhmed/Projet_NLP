@@ -1,0 +1,181 @@
+[
+  {
+    "intent": "salutation",
+    "examples": [
+      "bonjour",
+      "salut",
+      "bonsoir",
+      "hello",
+      "bonjour comment allez vous",
+      "salut ça va",
+      "hey",
+      "coucou",
+      "bonjour bonjour",
+      "salut bonjour",
+      "bonjour à vous",
+      "bonne journée",
+      "bonjour je cherche"
+    ]
+  },
+  {
+    "intent": "au_revoir",
+    "examples": [
+      "au revoir",
+      "à bientôt",
+      "bye",
+      "bye bye",
+      "salut",
+      "à plus",
+      "bonne journée",
+      "merci au revoir",
+      "à tout à l'heure",
+      "à plus tard",
+      "bonne soirée",
+      "bonne nuit",
+      "à demain",
+      "je vous laisse",
+      "je dois y aller",
+      "c'est tout",
+      "merci c'est tout",
+      "merci beaucoup",
+      "merci et au revoir"
+    ]
+  },
+  {
+    "intent": "recherche_produit",
+    "examples": [
+      "montre moi les robes",
+      "avez vous des chemises pour hommes",
+      "je cherche une robe d'été",
+      "quels pantalons avez vous",
+      "montre les t-shirts",
+      "je veux voir des vestes",
+      "avez vous des chaussures",
+      "montre moi des jupes",
+      "je cherche des pulls",
+      "quels manteaux avez vous en stock",
+      "recherche robe",
+      "trouve moi des chemises",
+      "je veux des pantalons pour femme",
+      "montre les produits pour homme",
+      "quels sont vos produits disponibles"
+    ]
+  },
+  {
+    "intent": "livraison",
+    "examples": [
+      "combien de temps prend la livraison",
+      "temps de livraison",
+      "délai de livraison",
+      "quand vais je recevoir ma commande",
+      "quand recevoir",
+      "comment suivre ma commande",
+      "suivi de commande",
+      "suivre ma commande",
+      "frais de livraison",
+      "coût livraison",
+      "livraison gratuite",
+      "combien coûte la livraison",
+      "où est ma commande",
+      "ma commande",
+      "expédition",
+      "quand sera expédié",
+      "quand expédié",
+      "délai expédition"
+    ]
+  },
+  {
+    "intent": "paiement",
+    "examples": [
+      "quels modes de paiement acceptez vous",
+      "modes de paiement",
+      "comment puis je payer",
+      "comment payer",
+      "paiement par carte",
+      "carte bancaire",
+      "acceptez vous paypal",
+      "paypal",
+      "moyens de paiement",
+      "paiement sécurisé",
+      "puis je payer par chèque",
+      "chèque",
+      "virement bancaire",
+      "quelles cartes acceptez vous",
+      "quelle carte",
+      "paiement en ligne"
+    ]
+  },
+  {
+    "intent": "retour",
+    "examples": [
+      "comment retourner un article",
+      "comment retourner",
+      "retourner un article",
+      "retourner article",
+      "politique de retour",
+      "remboursement",
+      "je veux retourner un produit",
+      "je veux retourner",
+      "délai de retour",
+      "comment faire un retour",
+      "faire un retour",
+      "processus de retour",
+      "étiquette de retour",
+      "retour produit",
+      "retourner produit",
+      "comment renvoyer",
+      "renvoyer un article",
+      "retourner ma commande",
+      "je souhaite retourner",
+      "procédure de retour"
+    ]
+  },
+  {
+    "intent": "promotion",
+    "examples": [
+      "y a t il des soldes",
+      "y a t il des soldes aujourd'hui",
+      "quelles sont les promotions",
+      "les promotions",
+      "code promo",
+      "code promotion",
+      "réduction",
+      "des réductions",
+      "soldes",
+      "en solde",
+      "articles en solde",
+      "nouveaux produits",
+      "nouveautés",
+      "les nouveautés",
+      "offres spéciales",
+      "y a t il des réductions",
+      "promotions actuelles",
+      "promotions",
+      "remise"
+    ]
+  },
+  {
+    "intent": "contact",
+    "examples": [
+      "comment vous contacter",
+      "comment vous joindre",
+      "votre adresse",
+      "numéro de téléphone",
+      "téléphone",
+      "email",
+      "adresse email",
+      "horaires d'ouverture",
+      "quels sont vos horaires",
+      "vos horaires",
+      "où êtes vous situé",
+      "où êtes vous",
+      "coordonnées",
+      "support client",
+      "service client",
+      "assistance",
+      "aide",
+      "besoin d'aide"
+    ]
+  }
+]
+

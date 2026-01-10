@@ -1,0 +1,29 @@
+[
+  {
+    "intent": "livraison",
+    "question": "Combien de temps prend la livraison ?",
+    "answer": "📦 **Informations sur la livraison :**\n\n• **Délai de livraison** : 3-5 jours ouvrés en France métropolitaine\n• **Frais de livraison** : Gratuits à partir de 50€ d'achat, sinon 4.99€\n• **Suivi de commande** : Vous recevrez un email avec un numéro de suivi dès l'expédition\n• **Points relais** : Livraison disponible dans plus de 10 000 points relais\n\nPour suivre votre commande, utilisez le numéro de suivi reçu par email ou connectez-vous à votre compte."
+  },
+  {
+    "intent": "paiement",
+    "question": "Quels modes de paiement acceptez-vous ?",
+    "answer": "💳 **Modes de paiement acceptés :**\n\n• Carte bancaire (Visa, Mastercard, American Express)\n• PayPal\n• Virement bancaire\n• Chèque (uniquement pour les commandes supérieures à 50€)\n\nTous les paiements sont sécurisés via notre système de cryptage SSL."
+  },
+  {
+    "intent": "retour",
+    "question": "Comment retourner un article ?",
+    "answer": "↩️ **Politique de retour :**\n\n• **Délai** : Vous avez 30 jours pour retourner un article\n• **Condition** : Articles non portés, avec étiquettes et dans leur emballage d'origine\n• **Processus** : \n  1. Connectez-vous à votre compte\n  2. Allez dans \"Mes commandes\"\n  3. Sélectionnez l'article à retourner\n  4. Imprimez l'étiquette de retour (frais de retour offerts)\n  5. Déposez le colis dans un point relais\n\nLe remboursement sera effectué sous 5-7 jours ouvrés après réception."
+  },
+  {
+    "intent": "promotion",
+    "question": "Y a-t-il des soldes aujourd'hui ?",
+    "answer": "🎉 **Promotions actuelles :**\n\n• **Soldes d'hiver** : Jusqu'à -50% sur une sélection d'articles\n• **Nouveautés** : Découvrez notre nouvelle collection printemps-été\n• **Code promo** : Utilisez le code WELCOME10 pour 10% de réduction sur votre première commande\n\nConsultez notre page \"Promotions\" pour voir tous les articles en solde !"
+  },
+  {
+    "intent": "contact",
+    "question": "Comment vous contacter ?",
+    "answer": "📞 **Nous contacter :**\n\n• **Email** : contact@ecommerce-mode.fr\n• **Téléphone** : 01 23 45 67 89 (Lun-Ven, 9h-18h)\n• **Chat en direct** : Disponible sur le site (Lun-Ven, 9h-18h)\n• **Adresse** : 123 Rue de la Mode, 75001 Paris\n\n**Horaires d'ouverture** : \n- Lundi au Vendredi : 9h - 18h\n- Samedi : 10h - 16h\n- Dimanche : Fermé"
+  }
+]
+
+

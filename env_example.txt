@@ -1,0 +1,16 @@
+# Configuration MongoDB
+# Copiez ce fichier en .env et modifiez les valeurs selon votre configuration
+
+# URI de connexion MongoDB (local ou cloud)
+MONGODB_URI=mongodb://localhost:27017/
+
+# Nom de la base de données
+DATABASE_NAME=chatbot_commerce
+
+# Nom de la collection principale pour les conversations
+COLLECTION_NAME=chatbot_commerce
+
+# Pour MongoDB Atlas (cloud), utilisez:
+# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/
+
+
