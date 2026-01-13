@@ -34,7 +34,7 @@ Un chatbot conversationnel intelligent développé avec Python pour assister les
 ### 1. Cloner le projet
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/OumarouAhmed/Projet_NLP.git
 cd Projet_NLP
 ```
 
@@ -223,10 +223,13 @@ Ce projet est un projet éducatif.
 
 Projet développé dans le cadre d'un projet NLP.
 
+Auteurs :
+- Oumekelthoum Mohamed
+- Ahmed Oumarou
+
 ## 📚 Ressources
 
 - [NLTK Documentation](https://www.nltk.org/)
 - [spaCy Documentation](https://spacy.io/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
-
